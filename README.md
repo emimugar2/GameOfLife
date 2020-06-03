@@ -1,4 +1,4 @@
-# GAME OS LIFE
+# GAME OF LIFE
 
 Juego de la vida [DotCSV](https://github.com/dotcsv)
 
