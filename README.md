@@ -2,7 +2,7 @@
 
 Juego de la vida 
 
-#Creditos
+Creditos:
 
 [DotCSV](https://github.com/dotcsv)
 
