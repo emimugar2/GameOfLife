@@ -1,10 +1,6 @@
 # GAME OS LIFE
 
-Juego de la vida 
-
-Creditos:
-
-[DotCSV](https://github.com/dotcsv)
+Juego de la vida [DotCSV](https://github.com/dotcsv)
 
 ## Install
 
